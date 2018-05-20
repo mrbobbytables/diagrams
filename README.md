@@ -5,7 +5,8 @@ Collection of Images and Diagrams from talks and presentations. Made available u
 ---
 - [Diagrams](#diagrams)
     - [Kubernetes](#kubernetes)
-        - [Architecture](#architecture)
+        - [Architecture Simple](#architecture-simple)
+        - [Architecture Detailed](#architecture-detailed)
         - [CNI Overview](#cni-overview)
         - [CNI Overview Example](#cni-overview-example)
         - [Pod](#pod)
@@ -41,9 +42,13 @@ Collection of Images and Diagrams from talks and presentations. Made available u
 
 ## Kubernetes
 
-### Architecture
+### Architecture Simple
 
-![](Kubernetes/Architecture_Small.png)
+![](Kubernetes/Architecture_Simple_Small.png)
+
+### Architecture Detailed
+
+![](Kubernetes/Architecture_Detailed_Small.png)
 
 ### CNI Overview
 
