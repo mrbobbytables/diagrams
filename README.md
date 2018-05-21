@@ -35,6 +35,8 @@ Collection of Images and Diagrams from talks and presentations. Made available u
         - [StorageClass](#storageclass)
         - [Creation of a Pod Part1](#creation-of-a-pod-part1)
         - [Creation of a Pod Part2](#creation-of-a-pod-part2)
+        - [SIG List](#sig-list)
+        - [WG List](#wg-list)
     - [Vault](#vault)
         - [Vault AWS Workflow](#vault-aws-workflow)
 
@@ -161,6 +163,14 @@ Collection of Images and Diagrams from talks and presentations. Made available u
 ### Creation of a Pod Part2
 
 ![](Kubernetes/Creation_of_a_Pod_Part2_Small.png)
+
+### SIG List
+
+![](Kubernetes/SIG_List_Small.png)
+
+### WG List
+
+![](Kubernetes/WG_List_Small.png)
 
 ---
 
