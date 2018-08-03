@@ -72,7 +72,7 @@ Collection of Images and Diagrams from talks and presentations. Made available u
 
 ### Pod Label
 
-[Small]((Kubernetes/Pod_Label_Small.png) | [Large]((Kubernetes/Pod_Label_Large.png)
+[Small](Kubernetes/Pod_Label_Small.png) | [Large](Kubernetes/Pod_Label_Large.png)
 ![](Kubernetes/Pod_Label_Small.png)
 
 ### Pod Selector Example
@@ -122,7 +122,7 @@ Collection of Images and Diagrams from talks and presentations. Made available u
 
 ### Deployment Detailed Part4
 
-[Small]((Kubernetes/Deployment_Detailed_Part4_Small.png) | [Large]((Kubernetes/Deployment_Detailed_Part4_Large.png)
+[Small](Kubernetes/Deployment_Detailed_Part4_Small.png) | [Large](Kubernetes/Deployment_Detailed_Part4_Large.png)
 ![](Kubernetes/Deployment_Detailed_Part4_Small.png)
 
 ### Deployment Simple Part5
@@ -152,7 +152,7 @@ Collection of Images and Diagrams from talks and presentations. Made available u
 
 ### Service ClusterIP Simple
 
-[Small](Kubernetes/Service_ClusterIP_Simple_Small.png)) | [Large](Kubernetes/Service_ClusterIP_Simple_Large.png))
+[Small](Kubernetes/Service_ClusterIP_Simple_Small.png) | [Large](Kubernetes/Service_ClusterIP_Simple_Large.png)
 ![](Kubernetes/Service_ClusterIP_Simple_Small.png)
 
 ### Service ClusterIP Detailed
