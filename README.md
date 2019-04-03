@@ -3,45 +3,117 @@
 Collection of Images and Diagrams from talks and presentations. Made available under the [Creative Commons Attribution Licence](https://creativecommons.org/licenses/by/4.0/) for reuse.
 
 ---
-- [Diagrams](#diagrams)
-    - [Kubernetes](#kubernetes)
-        - [Architecture Simple](#architecture-simple)
-        - [Architecture Detailed](#architecture-detailed)
-        - [CNI Overview](#cni-overview)
-        - [CNI Overview Example](#cni-overview-example)
-        - [Pod](#pod)
-        - [Pod Label](#pod-label)
-        - [Pod Selector Example](#pod-selector-example)
-        - [Workloads to Pod](#workloads-to-pod)
-        - [Deployment Simple Part1](#deployment-simple-part1)
-        - [Deployment Detailed Part1](#deployment-detailed-part1)
-        - [Deployment Simple Part2](#deployment-simple-part2)
-        - [Deployment Detailed Part2](#deployment-detailed-part2)
-        - [Deployment Simple Part3](#deployment-simple-part3)
-        - [Deployment Detailed Part3](#deployment-detailed-part3)
-        - [Deployment Simple Part4](#deployment-simple-part4)
-        - [Deployment Detailed Part4](#deployment-detailed-part4)
-        - [Deployment Simple Part5](#deployment-simple-part5)
-        - [Deployment Detailed Part5](#deployment-detailed-part5)
-        - [Deployment Simple Part6](#deployment-simple-part6)
-        - [Deployment Detailed Part6](#deployment-detailed-part6)
-        - [Service Overview](#service-overview)
-        - [Service ClusterIP Simple](#service-clusterip-simple)
-        - [Service ClusterIP Detailed](#service-clusterip-detailed)
-        - [Service NodePort Simple](#service-nodeport-simple)
-        - [Service NodePort Detailed](#service-nodeport-detailed)
-        - [Service LoadBalancer Simple](#service-loadbalancer-simple)
-        - [Service LoadBalancer Detailed](#service-loadbalancer-detailed)
-        - [PVC to PV](#pvc-to-pv)
-        - [StorageClass](#storageclass)
-        - [Creation of a Pod Part1](#creation-of-a-pod-part1)
-        - [Creation of a Pod Part2](#creation-of-a-pod-part2)
-        - [SIG List](#sig-list)
-        - [WG List](#wg-list)
-    - [Vault](#vault)
-        - [Vault AWS Workflow](#vault-aws-workflow)
+- [Containers](#containers)
+  - [Image Icon](#Image-Icon)
+  - [Image Layers Actions](#image-layers-actions)
+  - [Image Layers Dependencies](#image-layers-dependencies)
+  - [Image Layers Descriptions](#image-layers-descriptions)
+  - [Image Layers Graph](#image-layers-graph)
+  - [Image Layers Hash](#image-layers-hash)
+  - [Image Layers RW](#image-layers-rw)
+  - [Network Multi-Host](#image-layers-multi-host)
+  - [Network Multiple](#image-layers-multiple)
+  - [Network Single](#imgae-layers-single)
+- [Kubernetes](#kubernetes)
+  - [Architecture Simple](#architecture-simple)
+  - [Architecture Detailed](#architecture-detailed)
+  - [CNI Overview](#cni-overview)
+  - [CNI Overview Example](#cni-overview-example)
+  - [Pod](#pod)
+  - [Pod Label](#pod-label)
+  - [Pod Selector Example](#pod-selector-example)
+  - [Workloads to Pod](#workloads-to-pod)
+  - [Deployment Simple Part1](#deployment-simple-part1)
+  - [Deployment Detailed Part1](#deployment-detailed-part1)
+  - [Deployment Simple Part2](#deployment-simple-part2)
+  - [Deployment Detailed Part2](#deployment-detailed-part2)
+  - [Deployment Simple Part3](#deployment-simple-part3)
+  - [Deployment Detailed Part3](#deployment-detailed-part3)
+  - [Deployment Simple Part4](#deployment-simple-part4)
+  - [Deployment Detailed Part4](#deployment-detailed-part4)
+  - [Deployment Simple Part5](#deployment-simple-part5)
+  - [Deployment Detailed Part5](#deployment-detailed-part5)
+  - [Deployment Simple Part6](#deployment-simple-part6)
+  - [Deployment Detailed Part6](#deployment-detailed-part6)
+  - [Service Overview](#service-overview)
+  - [Service ClusterIP Simple](#service-clusterip-simple)
+  - [Service ClusterIP Detailed](#service-clusterip-detailed)
+  - [Service NodePort Simple](#service-nodeport-simple)
+  - [Service NodePort Detailed](#service-nodeport-detailed)
+  - [Service LoadBalancer Simple](#service-loadbalancer-simple)
+  - [Service LoadBalancer Detailed](#service-loadbalancer-detailed)
+  - [PVC to PV](#pvc-to-pv)
+  - [StorageClass](#storageclass)
+  - [Creation of a Pod Part1](#creation-of-a-pod-part1)
+  - [Creation of a Pod Part2](#creation-of-a-pod-part2)
+  - [SIG List](#sig-list)
+  - [WG List](#wg-list)
+- [Vault](#vault)
+  - [Vault AWS Workflow](#vault-aws-workflow)
 
 ---
+
+## Containers
+
+### Image Icon
+![](Containers/Image_Icon.png)
+
+
+### Image Layers Actions
+[Small](Containers/Image_Layers_Actions_Small.png) | [Large](Containers/Image_Layers_Actions_Large.png)
+
+![](Containers/Image_Layers_Actions_Small.png)
+
+
+### Image Layers Dependencies
+[Small](Containers/Image_Layers_Deps_Small.png) | [Large](Containers/Image_Layers_Deps_Large.png)
+
+![](Containers/Image_Layers_Deps_Small.png)
+
+### Image Layers Descriptions
+[Small](Containers/Image_Layers_Description_Small.png) | [Large](Containers/Image_Layers_Description_Large.png)
+
+![](Containers/Image_Layers_Description_Small.png)
+
+
+### Image Layers Graph
+[Small](Containers/Image_Layers_Graph_Small.png) | [Large](Containers/Image_Layers_Graph_Large.png)
+
+![](Containers/Image_Layers_Graph_Small.png)
+
+
+### Image Layers Hash
+[Small](Containers/Image_Layers_Hash_Small.png) | [Large](Containers/Image_Layers_Hash_Large.png)
+
+![](Containers/Image_Layers_Hash_Small.png)
+
+
+### Image Layers RW
+[Small](Containers/Image_Layers_RW_Small.png) | [Large](Containers/Image_Layers_RW_Large.png)
+
+![](Containers/Image_Layers_RW_Small.png)
+
+
+### Network Multi-Host
+[Small](Containers/Network_Multi_Host_Small.png) | [Large](Containers/Network_Multi_Host_Large.png)
+
+![](Containers/Network_Multi_Host_Small.png)
+
+
+### Network Multiple
+[Small](Containers/Network_Multi_Small.png) | [Large](Containers/Network_Multi_Large.png)
+
+![](Containers/Network_Multi_Small.png)
+
+
+### Network Single
+[Small](Containers/Network_Single_Small.png) | [Large](Containers/Network_Single_Large.png)
+
+![](Containers/Network_Single_Small.png)
+
+
+---
+
 
 ## Kubernetes
 
